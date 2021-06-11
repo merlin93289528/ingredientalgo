@@ -81,6 +81,4 @@ for i in range(len(text_tuple_marks)):
     
 varuety_tuples.append(final_tuple)
 
-print(text_tuple_marks)
-print(varuety_tuples)
 print(max_tuple(varuety_tuples))
