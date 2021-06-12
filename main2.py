@@ -19,8 +19,11 @@ text8 = """roREH O HOMEP FAPTWM 10.2020 (0 NGeave-On Rapid Growth and Thickness 
 text9 = """Dove 06bATMA HeHOCTH DDKpeMAna pyk Dove 06bATMA HeMHOCTH Macno wn npAHaA BaHMnb nopaayre ce6A KpeMoM AnA pyK Dove O6bATHA HEMHOCTH. OH OKyTaeT M3bICKaHHblM CoyeTaHneM nMTatebHoro KpeMa M Macha wM. Jlerko BnWTbIBaACb, OH nogapWT BaM He3abblBaeMoe oulyjeHne rnaAkoň n bapxaTMCTOW KOKW CHeXHbIMapoMaTOM npAHOM BaHMin. AepMaTonorwyeckw npOTeCTMpoBaH CogepxHT DeepCare Complex-KOMIneKc rnybokoro yXOna OT Dove cpoACTBeHHblMM KOXe yxaxMBaioulMMM KOMTOHeHTaMM M HaTypanbHbIM nMTaTenbHblM MaciOM. Tny6oko nWTaeT yBaXHAeT Bauy KOXY. ipMMeHeHMe: nerkwMM MaccnpyouMMW ABMKEHMAMM HaHeCHTe Ha Koxy ao nonHoro BnWTblBaHMA. C BOnpocaMM 06pauaMrecb no TeneooHy OT3bIB4MBO JIMHM 8-800-200-1-200.3B0HOK no PoccMM 6ecninaTHbl. apoMaT npAHO BaHWnn **poroBoñ cnOn anMAepMMca KpeM AnA pyk Dove 06iMMH HÍKHOCTI Macno WM Ta npama BaHinb AepMaTonoriuHo npoTeCTOBaH 3acTocyBaHHA:NerkMMM MacaxyioMMM pyxaMW HaHeciTb Ha IKipy Ao noBHOro nornWHaHHA. COCTAB/CKTIAD: Aqua, Glycerin, Stearic Acid, Caprylic/Capric Trigyoeride Dimethicone, Glycol Stearate, PEG-100 Stearate, Petrolatum, Acrylates/C103 Alkyl Acrylate Crosspolymer, Butyrospermum Parki (Shea) Buter, Carbone Cetyl Alcohol, Cyclopentasiloxane, Disodium EDTA, Glyceryl Stearate, Helianths Annuus (Sunfiower) Seed Oil, Methylparaben, Parfum, Phenoxyethan Propyparaben, Stearamide AMP, Triethanolamine, Coumarin, Cl 77891. HUBY VaroroBATenb: 000 «fOHwneBep Pycb, PoccHA, 123022, r. M y Lepren Maxeesa, A. 13. loCTaBK B Peciy6nMke Benapycb: 000 «3 . MWHCK, np-T lobepwTeRe 17-819, Ten. (+37517) 3453/ Yata naroTOBNeHMA, WcCnO BaTb Ao (HOMep napTH WBe Ty6bl. UA BHpoóHIHNC OHineBep PyCb, Poci, 12 M. MocKBa, Byn. CeprH Mauas byA. 13. Appeca nony poOHHLTBa: (Dinia TOB d Bep Pycb» B M. CRdl POcia, 620138, M. Exae Byn. KoMcOMONbCbKa Bp: TOB «{OHniBep 4119, YkpaiHa, M. K ApiBCbKa, byA 1en.: +38(044)490-30 rOTOB/NeHHR, Ipl Mep napTil): AMB. MOBH 36epiraHHR pi Bia +5C J0 75 ml (un) 2M c7o Caulb dove.com. www.unileve"""
 text10 = """52.50 52.50 57.70 52.50 724790- COCTAB/ CKAAA/ PAMbl: ISOBUTANEAGUA/ WATER DIMETHICONEALUMINUM CHLOROHYDRATE, PARFUM/FRAGRANCE, HYDROXYCRONELLAL, PHENOXYEIHANOL e Royale 75008 Panis FRANCE DIMETHIcONOL, LIMONENE, LINALOOL PERLITE,1ETRASODIUM GLUTAMATE DIACETATE 5000 93584STOUEN CEDEX FR LAURYL PEG-9POLYDIMETHYLSLORYETHYL DiIMETHICONE, HEXYLCINNAMAL (FIL CI61819/2) SARNIGR www.garnier.com"""
 text11 = """Best before BKopMCTaTH AO fopeH AO 4,59 INCI/Cknan/CoCTaB: Paraffinum Liquidum, Paraffin (and) Microcrystalline Wax, Petrolatum, Polybutene, Peg-40 Hydrogenated Castor Oil, Fragrance, Phenoxyethanol (and) Ethylherylglycerin, Tocopheryt Storage conditions/YMOBH 30epiraHHs/YcnoBMS XpaHeHHA +5-t2 ACTY 4774:2007 Acetate. Producer/BHpobHHKNS anchuka, 4. Astra CoS in ade in Ukraineoom"""
+text12 = """NPMMEHEHME YrpoM H BeMepoM, CHOVHB BATHBIM AMCK. HaHecHTe Ha nHYO MOBTOpMTe po Tex M wero. He TpeőyeT TpeHAA nop noka BaTHBIM AMCK He CraHer MneanbHo 4HCTBIM. M CMbIBaHMA. 6E3 CNMPTA. BE3 OTAYLWEK ipOTecTwpoBAHO NOA AEpMaToNornyecKUM M OdDTONBManormyeckUM KOHTpOneM. LEHHOCTH L'OREAL PARIS Be3onacHocTb M 3hheKTMBHOCTb AOKa3aHa He3aBW CMMBIMM MHCTHTyTaMM npM MMHMMyM 600 HaHeceHMAX Ha KOXy, BKNKO4aA uyBCTBMTeibHylo. LOréal npwaepxeH MeTOgaM TeCTHPOBaHHA 6e3 KMBOTHBIX 6onee 30 neT. 781988 1-COCTABICKNAD AQUA /WATER HEXYLENE GLYCOL GLYCERIN .POLOXAMER 184 DISODIUM COCOAMPHODIACETAIE DISODIUM EDTA POLYAMINOPROPYL BIGUANIDE (FIL.L. B548942 FOEAU IOpeare), 119180, . Mooxsa, 4HTanyreHwHcoAÁ nep, 18, Cīp.1-2. Ten: (454913 EHE. TEaTb Iporyayion poinuaNg| TMBX 34p Ko. KT Hertzstrasse 175 DI6187 KARLSRURE, GEmay epk3ARL IQgeH pO: CHL H2 ynaoere. TenepOH TopAe HEHM NOpeanb 1lapex8 800 10 9 0. b CTHpTa-He CopepoAT 3THTIOBAĂ CTHDT. "YnonHoMOHEeHHBN nOepCraBHTens k3roT08MTenol HMNODTeP. 28T602 06/23 3MHBaHR BOONO. 33cnoxowe Wipy. HawociTH 8a Wpy Donwn 3 ponooroo BaTHOTO AMCKY BpaHI Ta bB1epi. Apeca pna 38epHeHs 8 Yipai: TO3 lopeanb Ypaira', ayn. MIpirvena, 4, KAia, C3680. Bupo6eMc NOpeanb Tlapwx,14,po PyaAnt 75008, lapux, opania. BupoonenO B Hwevwa. praTN npM Teweparypi +6C.+25C. TepuiH MpaTocni ta Howep napni HasegeH Ka ynaioe AaTa BwpoHALTE a36 icauis AO KIBepeoi ATM. BHICpHCTaH nporarow 6 uicauja nicna IDany opcnysaM. He BMIODHCTOBYSaTM nICTIR 30NE TEpMIHY 1pMJaTHOCTL M N LOREAL PARIS 14, rue Royale 75008 Paris FRANCE SA 75000 93584 ST OUEN CEDEXER www.loreal-paris.ru"""
+main_text = """acial Meso Peoing UA MeaofTiniHr Ana 06nwa Mezopiing pentru fata Me3ollwnMHE OeTKE aphanran Me3onwneNT-CKATK KOCMerWYeCKM nponykT HOBOro ow neHWA AOR 3KCGhonnamM KOMW MUa AenmwanHO Ynan OMepTBeBLIMe KITETKW KOKW U M31MUK KOHOTO KWpa, cT nMDyer ooHO8teHMe KneroK, YBnaKHAeT M pasrnanBaeT K acBeMaer yCKTblM t8eT nMa pin H CIMMypyer cMHTe3 TanypoHoson KMC ROCCTaH2BB2eT Be ontManbHbiM Oananc, n08bluiaer aKHHHOGIb KOKU, YgenwMBaeT ee 31acTHOCTb, niOTH wynpyrocib, yMeHbliaer HeCOBepuieHcT8a pa3rnaxM MOpLIAHbI. MONO9dH WH.CTHMYTMpyer npouecC MX 0OHOBeHWA, OCBeKaeT w nORCT KOXY, OKa3b1BdeT yCnOkaMBaroee AencTene e1MH-1pMpogmbin yBiaMHTe)b104EpKMBaer 6ana Nar B KOMe, fI0Bbluaer ee ynpyrocTb W TOHyC KOKy OTIenyun8aer OMepTBeBLIMe KneTKM K PIMEPEFNE HaHecn H36eraa 06nacTn BOKpyr ia3 n Tyo, Kpyro8bIMM JB wM MATKO nOMacenpyie go o0pas0BaHne KaTbluek, Tus TElbHO CMOWTe BONOn. HMMAHME: aKTMBHaA qpOpMyna-BO3MOKHO NOLb8 PENNPEXKJERME He MCnonbayre Ha pasapaxeHHO sekgeHHOW M O4eHb CyXOM KOKE. T1pn nonanaHMM B 2 1pOMOMTE OOblWM KOIMHecTBOM BOAbl. Me30nMnMH-CKaiky Ha cyxyio koN OCTAB /INGREDIENES AQUA (WATEH). CETRIMUNIUM CHLOAIDE, ALCOH ALPYLENE GLYCOL, CELLULUSE, PANIHENYL THIACETATE, HYDROXYPAOPYICE SE CARBOMER, HYDROLYLED YEAST EXTRACT, CEL HYORUXYETHTEE PLYGLUGUMUNIC ACRU, LECHIN, PROPYLHEPINL CAPAYLATE, BETAE OROGENATED CASTUROIL. THIDECETH-9, PARFUM (FRAGRANCE) ENCYL ALCOHOL, MEIHYLCHLOROISOTHIAZOLINONE, METHYLSU pHMTE npM TeMneparype He HWKe 5 CWHe Bbe 20 eO6308aTb n0 Ha3HaveHWO no MCTeveHm Cpoka ron AAOTKCA HAYHHOTO UEHTPA c5EiMAS M3TOTOBTESN6: CIlebEJIMTA» 000 Den2hyCb, 220089, r. MuHCK, yn. eka0puB. 298 1en +375(17)222-91-17, www.belita.0y ERE 100 MM VBY 100341803 030 Ch.dN, ynonHM bEMIA enmid- 214019, CAMOI CMoneHA 96 Rn: (4812)"""
 
-main_text = text11 #задаем текст
+
+#main_text = text12 #задаем текст
 
 text_tuple = main_text.split(" ")
 
@@ -40,45 +43,82 @@ for i in range(len(text_tuple_marks)):
     if text_tuple[i].endswith(':') == False and text_tuple[i].isupper():
         text_tuple_marks[i] = 1
 
-varuety_tuples = []
-final_tuple = []
-count_zero = 0
-for i in range(len(text_tuple_marks)):
-    el = text_tuple_marks[i]
-    if el == 0:
-        count_zero += 1
-    if el == 1:
-        count_zero = 0
-    
-    final_tuple.append(text_tuple[i])
+restuples = []
+restuples_nums = []
+restuples_zeros = []
+ 
+for czpat in range(1, 100):
+    varuety_tuples = []
+    final_tuple = []
 
-    if el == 2 and len(final_tuple) == count_zero:
-        final_tuple = []
-        count_zero = 0
-    
-    if el == 2 and len(final_tuple) > count_zero:
-        varuety_tuples.append(final_tuple)
-        final_tuple = []
-        count_zero = 0
+    num_varuety_tuples = []
+    num_final_tuple = []
 
-    if count_zero == 6 and len(final_tuple) > count_zero:
-        varuety_tuples.append(final_tuple)
-        final_tuple = []
-        count_zero = 0
+    count_zero = 0
+    for i in range(len(text_tuple_marks)):
+        el = text_tuple_marks[i]
 
-    if count_zero == 6 and len(final_tuple) == count_zero:
-        final_tuple = []
-        count_zero = 0
+        
+        if el == 0:
+            count_zero += 1
+        if el == 1:
+            count_zero = 0
 
-    if el == 3 and len(final_tuple) == count_zero:
-        final_tuple = []
-        count_zero = 0
-    
-    if el == 3 and len(final_tuple) > count_zero:
-        varuety_tuples.append(final_tuple)
-        final_tuple = []
-        count_zero = 0
-    
-varuety_tuples.append(final_tuple)
+        final_tuple.append(text_tuple[i])
+        num_final_tuple.append(el)
 
-print(max_tuple(varuety_tuples))
+        if el == 2 and len(final_tuple) == count_zero:
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+        
+        if el == 2 and len(final_tuple) > count_zero:
+            varuety_tuples.append(final_tuple)
+            num_varuety_tuples.append(num_final_tuple)
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+
+        if count_zero == czpat and len(final_tuple) > count_zero:
+            num_varuety_tuples.append(num_final_tuple)
+            varuety_tuples.append(final_tuple)
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+
+        if count_zero == czpat and len(final_tuple) == count_zero:
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+
+        if el == 3 and len(final_tuple) == count_zero:
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+        
+        if el == 3 and len(final_tuple) > count_zero:
+            varuety_tuples.append(final_tuple)
+            num_varuety_tuples.append(num_final_tuple)
+            final_tuple = []
+            num_final_tuple = []
+            count_zero = 0
+            continue
+        
+    varuety_tuples.append(final_tuple)
+    num_varuety_tuples.append(num_final_tuple)
+
+    restuples.append(max_tuple(varuety_tuples))
+    restuples_nums.append(num_varuety_tuples[varuety_tuples.index(max_tuple(varuety_tuples))].count(1))
+    restuples_zeros.append(num_varuety_tuples[varuety_tuples.index(max_tuple(varuety_tuples))].count(0))
+
+one_id = restuples_nums.index(max(restuples_nums))
+#zero_id = restuples_zeros[one_id]
+
+print(restuples[one_id])
+
+#print(restuples[restuples_nums.index(max(restuples_nums))])
