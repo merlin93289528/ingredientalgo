@@ -123,9 +123,9 @@ void main() {
     all_results_one.add(countElInList(result_num_tuple, 1));
   }
   
-  var jj = all_results_one.reduce((curr, next) => curr > next? curr: next);
+  var biggest_one_num = all_results_one.reduce((curr, next) => curr > next? curr: next);
 
-  var result_id = all_results_one.indexOf(jj);
+  var result_id = all_results_one.indexOf(biggest_one_num);
   
   print(all_results[result_id]);
 }
