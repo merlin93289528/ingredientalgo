@@ -9,14 +9,13 @@ var allCapitalsTuple = allCapitals.split('');
 //------------Functions-------------------
 
 int countElInList(List arr, int num){
-  
   var sumEl = 0;
   
   for (var el in arr) {
     if (el == num)
       sumEl++;
   }
-  
+  //print(arr);
   return sumEl;
 }
 
@@ -93,6 +92,7 @@ void main() {
         count_zero = 0;
      
       final_tuple.add(text_tuple[i].replaceAll(RegExp(r'\,|\.'), ''));
+      final_tuple_num.add(el);
     
       if (final_tuple.length == count_zero && (el == 3 || count_zero == zeroPattern || el == 2)) {
         final_tuple = [];
@@ -119,11 +119,13 @@ void main() {
     all_results.add(result);
     
     List result_num_tuple = variety_tuples_num[variety_tuples.indexOf(result)];
-    
+
     all_results_one.add(countElInList(result_num_tuple, 1));
   }
   
-  var result_id = all_results_one.indexOf(all_results_one.reduce((curr, next) => curr > next? curr: next));
+  var jj = all_results_one.reduce((curr, next) => curr > next? curr: next);
+
+  var result_id = all_results_one.indexOf(jj);
   
   print(all_results[result_id]);
 }
