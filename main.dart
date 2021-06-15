@@ -1,5 +1,3 @@
-import 'dart:math';
-
 //------------Constants-------------------
 const main_text = """aHOBne HonHH0 npeoopa3 OcnabneHHble n @HHO-TIapKne v eT noeBp nOMKMe Bon 6necTAWe. BOCCTAHOBNEHnE yCHIEHHAR AKTMBHbIM +TNAAKOCTh +B1O COPMA CHNEHH uEPAMHA ywacTKH MAbl rnyboko poHWKakOT B nOB 8onoC, 3anonHas MBaR KyTMKynpHblM Cno ne BGCTE akdnbTaeCA rnapkMMW W OnecTR pOHO OCTb, CTaHosHiCH napkuMMnl BOnocbl BHOBB 06peTa bl, npeiore 0BpexAeHWA, 00ecnewBaer p.TAHTEHO yTONjaeT oe yBnaxHeH n nTaHne. nPMMEHEHWE: HaHecnTe waMnyHA Te MaccWpylouyum pBWxeHRM CMO KonuecTBOM BOAbl. IIpn HeobxopVM0 XroMKOCTE Ha MOKpbie OOMTbHbIM K n08TOpWTe npoLeaypy. COCTAB/INGREDIENTS: BETAINE CYCERYL COcOATE,ODIOMC14-C1 SEC ALKYL Sug AURYL GLUCOsIDE LAUROYL PG-IRIMONIUM CHLORIDE CAPRYLICICAPRIC GLYCERIDES, TROECETH-6, TRIDECETH-12, PANHENOL, PARFUM (FRAGRANC GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, DIPROPYLENE GNOD PROPYLENE GLYCOL TRIDECETH-9, PEG-5 ETHYLHEXANCAE CERAMDE 3, PEG-120 METHYL GLUCOSE TRIOLEATE PROPAEDO DIUM EDTA, BENZYL ALCOHOL, METHYLCHLOROISOTHAZOUNOE VETHYLISOTHIAZOLINONE, CITRIC ACID (WATER) COCAMIDOPRP SULFATE, COCO-BETAINEP AQUA SODIUM LAURETH SILICONE QUATERNIJMAS paHMT npH TeMneparype He HMXe 5 'CW He Bbue 2 lo10n63083Tb no Ha3HayeHMIO nO MCTeyeHwA cpora ro aroroBWTEb: Cn «6ENVTA» 000 DEnapycb, 220089, r. MMHCK, yn. AekaópnCTOB, 29a Ten, +375(17) 222-91-17, www.belila.by PA3PASOTKA HAYYHOro LEHTPA c5E IMTA-BMISAG ERL 2017 400 M""";
 
@@ -33,6 +31,37 @@ bool isUpperCase(String string) {
       return true;
     
     return false;
+}
+
+List formatTuple(List tuple) {
+  var result = [];
+  
+  var ingredient = "";
+  for (var el in tuple) {
+ 
+    if (el.endsWith(",") || el.endsWith(".")) {
+      ingredient += " " + el;
+      result.add(ingredient.replaceAll(RegExp(r'\,|\.'), ''));
+      ingredient = "";
+      continue;
+    }
+    
+    var is_contains_coma = el.contains(",");
+    
+    if (is_contains_coma || el.contains(".")) {
+      var el_tuple = is_contains_coma? el.split(",") : el.split(".");
+      ingredient += " " + el_tuple[0];
+      result.add(ingredient);
+      ingredient = el_tuple[1];
+      continue;
+    }
+    
+    ingredient += " " + el;
+  }
+  
+  result.add(ingredient.replaceAll(RegExp(r'\,|\.'), ''));
+  
+  return result;
 }
 
 List maxTuple(List tuples) {
@@ -91,7 +120,7 @@ void main() {
       if (el == 1)
         count_zero = 0;
      
-      final_tuple.add(text_tuple[i].replaceAll(RegExp(r'\,|\.'), ''));
+      final_tuple.add(text_tuple[i]);
       final_tuple_num.add(el);
     
       if (final_tuple.length == count_zero && (el == 3 || count_zero == zeroPattern || el == 2)) {
@@ -127,5 +156,8 @@ void main() {
 
   var result_id = all_results_one.indexOf(biggest_one_num);
   
-  print(all_results[result_id]);
+  var not_formatted_tuple = all_results[result_id];
+  
+  var result = formatTuple(not_formatted_tuple);
+  print(result);
 }
